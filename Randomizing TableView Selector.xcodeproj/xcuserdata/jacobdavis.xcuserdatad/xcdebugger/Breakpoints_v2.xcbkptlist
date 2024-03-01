@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "318C618B-37B0-40DE-BEB0-2B5B130DC290"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2B5696B1-4E87-44DC-BDC4-A35E9B38A175"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Randomizing TableView Selector/NewPlayerViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "submitButtonTapped(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2B5696B1-4E87-44DC-BDC4-A35E9B38A175 - ec067fec304c5871"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Randomizing_TableView_Selector.NewPlayerViewController.submitButtonTapped(Any) -&gt; ()"
+                  moduleName = "Randomizing TableView Selector"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jacobdavis/Mobile%20Development%20Projects/Projects/Assignment%20Projects/Special%20Topics:Swift%20UI/Randomizing%20TableView%20Selector/Randomizing%20TableView%20Selector/NewPlayerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "204">
+               </Location>
+               <Location
+                  uuid = "2B5696B1-4E87-44DC-BDC4-A35E9B38A175 - ec067fec304c585e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Randomizing_TableView_Selector.NewPlayerViewController.submitButtonTapped(Any) -&gt; ()"
+                  moduleName = "Randomizing TableView Selector"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jacobdavis/Mobile%20Development%20Projects/Projects/Assignment%20Projects/Special%20Topics:Swift%20UI/Randomizing%20TableView%20Selector/Randomizing%20TableView%20Selector/NewPlayerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "204">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
